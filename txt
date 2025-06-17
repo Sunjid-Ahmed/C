@@ -2,3 +2,4 @@ hello
 my name is sunjid
 i'm very passionate about hacking 
 currently i'm learning web app security & bug hunting
+day 1 
