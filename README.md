@@ -62,7 +62,6 @@ We welcome contributions! If you have interesting code, fixes, or improvements, 
 **Sunjid Ahmed Siyem**
 📫 Connect with me on [GitHub](https://github.com/Sunjid-Ahmed) | [LinkedIn](https://www.linkedin.com/in/sunjid-siyem)
 
----
 
 ## 📄 License
 
