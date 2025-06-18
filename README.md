@@ -82,11 +82,3 @@ If you found this project helpful, consider giving it a ⭐️ and sharing it wi
 
 ```
 
----
-
-Let me know:
-- If this is a *specific* C project (e.g., game, system tool, etc.)
-- If you want to add **Badges**, **Screenshots**, or **CI setup instructions**
-
-I'll gladly tailor it to your exact needs.
-```
