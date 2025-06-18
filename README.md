@@ -67,7 +67,6 @@ We welcome contributions! If you have interesting code, fixes, or improvements, 
 
 This repository is licensed under the [MIT License](LICENSE).
 
----
 
 ## ⭐️ Show Your Support
 
