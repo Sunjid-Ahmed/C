@@ -4,8 +4,6 @@
 
 Welcome to the **C** repository – a curated collection of C programming projects, algorithms, and code snippets. Whether you're a beginner learning the ropes or an advanced developer exploring low-level programming, this repository offers valuable C code examples for study, modification, and enhancement.
 
----
-
 ## 📁 Repository Structure
 
 ```bash
@@ -20,7 +18,6 @@ C/
 └── README.md         # Project documentation
 ````
 
----
 
 ## 🚀 Getting Started
 
@@ -40,8 +37,6 @@ gcc filename.c -o output.exe
 output.exe
 ```
 
----
-
 ## 📌 Features
 
 * ✅ Clean, modular C code
@@ -49,7 +44,6 @@ output.exe
 * ✅ Well-commented for easy understanding
 * ✅ Beginner-friendly and educational
 
----
 
 ## 🤝 Contributing
 
