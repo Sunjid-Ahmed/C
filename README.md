@@ -18,7 +18,6 @@ C/
 └── README.md         # Project documentation
 ````
 
-
 ## 🚀 Getting Started
 
 To run any `.c` file, you’ll need a C compiler like `gcc`.
