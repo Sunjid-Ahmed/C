@@ -55,8 +55,6 @@ We welcome contributions! If you have interesting code, fixes, or improvements, 
 4. Push to the branch (`git push origin feature-name`)
 5. Open a Pull Request
 
-
-
 ## 🧠 Author
 
 **Sunjid Ahmed Siyem**
