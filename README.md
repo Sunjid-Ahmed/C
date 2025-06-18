@@ -35,7 +35,6 @@ gcc filename.c -o output
 gcc filename.c -o output.exe
 output.exe
 ```
-
 ## 📌 Features
 
 * ✅ Clean, modular C code
