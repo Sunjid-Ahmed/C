@@ -43,7 +43,6 @@ output.exe
 * ✅ Well-commented for easy understanding
 * ✅ Beginner-friendly and educational
 
-
 ## 🤝 Contributing
 
 We welcome contributions! If you have interesting code, fixes, or improvements, feel free to:
